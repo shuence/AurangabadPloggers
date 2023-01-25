@@ -1,30 +1,19 @@
 
-# AdventureSQUAD ✌️
+# AurangabafPloggers ✌️
 
-LOOKING FOR ADVENTURE?
-You've Come At The Right Place !
+Looking to contribute in environment conservation
 
-Connecting People Through Adventures, Amongest Nature.✌️
+You've come at the right place !
 
-A travel agency Website design fully responsive.
+Connecting People through Plogging Drives,Tree Plantation Drives, Mental health campaigns.✌️
 
 ## Authors
 
 - [@shuence](https://www.github.com/shuence)
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 ## Demo
 
 Insert gif or link to demo
-
-![Live Demo](https://github.com/shuence/AdventureSquad/blob/main/images/live%20demo.png)
 
 ## Deployment
 
