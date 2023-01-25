@@ -12,6 +12,7 @@
   outline: none; border:none;
   text-decoration: none;
   transition: all .2s linear;
+  
 
 }
 
@@ -92,6 +93,9 @@ header .navbar a{
   color: white;
   font-size: 2rem;
   margin:0 .8rem;
+}
+
+section{
 }
 
 header .navbar a:hover{
